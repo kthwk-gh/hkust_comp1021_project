@@ -1,7 +1,4 @@
 '''
-student name:   Li Wai Keung
-student id:     20199546
-student email:  wkli@stu.ust.hk
 '''
 
 """
